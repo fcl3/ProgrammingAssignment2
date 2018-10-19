@@ -1,11 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 ##
-## Let's pretend please that this is useful commentary
-## Srsly, function is selfexplanatory 
-## And there is some stuff in Readme.md
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
         set <- function(y) {
@@ -21,9 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
-## I just want to sleep
-## So now both functions are documented, k?
+##  
 
 cacheSolve <- function(x) {
         ## Return a matrix that is the inverse of 'x'
